@@ -14,6 +14,7 @@ but it's great if you want to learn Kubernetes with a "real" cluster
 (i.e. a cluster with multiple nodes) without breaking the bank, *and*
 if you want to develop or test applications on ARM.
 
+**https://medium.com/codex/run-your-docker-containers-for-free-in-the-cloud-and-for-unlimited-time-361515cb0876**
 ## Getting started
 
 1. Create an Oracle Cloud Infrastructure account (just follow [this link][createaccount]).
